@@ -1,15 +1,21 @@
-# 🧮 Simple Calculator
+# Simple Calculator
 
-A modern and responsive calculator built with **HTML, CSS**, and **JavaScript**, using the **math.js** library to safely evaluate expressions (no use of `eval()`).
+A responsive and user-friendly calculator built using **HTML**, **CSS**, and **JavaScript**.  
+Supports basic arithmetic operations with a clean, modern interface and intuitive button layout.
 
-## 🔗 Live Demo
+## Features
 
-👉 [Try it here](https://yourusername.github.io/calculator/)  
+- Addition, subtraction, multiplication, and division
+- Clear (AC) and delete (DE) functions
+- Responsive design using CSS Grid and Flexbox
+- Simple and accessible UI
 
-## 🚀 Features
+## How to Use
 
-- ✅ Basic arithmetic operations (`+`, `-`, `*`, `/`, `.`, `00`)
-- ✅ Responsive layout using CSS Grid
-- ✅ Secure expression evaluation using `math.js`
-- ✅ Clean UI with hover effects
-- ✅ Fully client-side and fast
+Open `index.html` in any modern web browser to start using the calculator.
+
+## Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript
